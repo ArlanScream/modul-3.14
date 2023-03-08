@@ -1,0 +1,8 @@
+# Editor direction and files
+.idea
+.vscode
+*.suo
+*.nts*
+*.njsproj
+*.sln
+*.sw?
